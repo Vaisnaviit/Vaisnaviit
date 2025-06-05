@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vaisnavi -
 ==================================================================================================================================
 
-Namaste! I am a third year IT student who is in her learning phase of new technologies.
+Namaste! I am a IT student who is in her learning phase of new technologies.
 ---------------------------------------------------------------------------------------
 
 * ✉️  You can contact me at [1905vashu@gmail.com](mailto:1905vashu@gmail.com)
